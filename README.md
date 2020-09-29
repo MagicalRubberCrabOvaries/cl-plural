@@ -45,7 +45,7 @@ DEFPLURAL creates a shortcut for mapping macros and executing them in a block. T
 -> 1
 
 * *c*
--> 2(
+-> 2
 
 * (+ *a* *b* *c*)
 -> 3
